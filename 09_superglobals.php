@@ -16,3 +16,6 @@
   $_REQUEST - Contains information about variables passed through the form or URL.
 */
 
+// var_dump($_SERVER);
+print_r($_SERVER);
+

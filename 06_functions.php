@@ -12,3 +12,17 @@
     // code to be executed
   }
 */
+
+// function registerUser($email) {
+//   echo $email . ' registered';
+// }
+
+// registerUser('John');
+
+function sum($n1, $n2) {
+  return $n1 + $n2;
+}
+
+$add_num = sum(1, 2);
+echo $add_num;
+
